@@ -1,1 +1,3 @@
-{"bills":[{"id":1781466997,"customer":"Test Customer","items":[],"date":"2026-06-15","amount":0},{"acNo":2452,"customerName":"ABHI ENTERPRISES","customerStateCode":"29","isLocal":true,"isCash":false,"date":"2026-06-15","items":[{"productName":"ABHAY TOX AMP","batchNo":"KN24014","expiryDate":"","qty":10,"rate":9.97,"purchaseRate":8.9,"mrp":13.08,"taxCode":"5G","taxRate":5}]},{"acNo":2516,"customerName":"A.B.PHARMA .","customerStateCode":"29","isLocal":true,"isCash":false,"date":"2026-06-15","items":[{"productName":"1ST AID ANTISE.LIQ","batchNo":"","expiryDate":"","qty":10,"rate":1,"purchaseRate":1,"mrp":19.95,"taxCode":"18G","taxRate":18}]},{"acNo":2452,"customerName":"ABHI ENTERPRISES","customerStateCode":"29","isLocal":true,"isCash":false,"date":"2026-06-15","items":[{"productName":"ABHAY TOX AMP","batchNo":"KN24014","expiryDate":"","qty":1,"rate":9.97,"purchaseRate":8.9,"mrp":13.08,"taxCode":"5G","taxRate":5}]}]}
+{
+    "bills": []
+}
