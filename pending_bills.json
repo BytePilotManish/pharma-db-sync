@@ -1,1 +1,3 @@
-{"bills":[{"acNo":2516,"customerName":"A.B.PHARMA .","customerStateCode":"29","isLocal":true,"isCash":false,"date":"2026-06-15","items":[{"productName":"1ST AID ANTISE.LIQ","batchNo":"","expiryDate":"","qty":1,"rate":1,"purchaseRate":1,"mrp":19.95,"taxCode":"18G","taxRate":18}]}]}
+{
+    "bills": []
+}
