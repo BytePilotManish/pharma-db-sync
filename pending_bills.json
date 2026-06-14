@@ -1,3 +1,1 @@
-{
-    "bills": []
-}
+{"bills":[{"acNo":2516,"customerName":"A.B.PHARMA .","customerStateCode":"29","isLocal":true,"isCash":false,"date":"2026-06-15","items":[{"productName":"3M 1 PAPER TAPE","batchNo":"1","expiryDate":"","qty":1,"rate":30.4,"purchaseRate":20,"mrp":50,"taxCode":"G12","taxRate":12}]}]}
