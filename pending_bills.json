@@ -1,3 +1,1 @@
-{
-    "bills": []
-}
+{"bills":[{"acNo":2317,"customerName":"MARUTHI MEDICAL","customerStateCode":"29","isLocal":true,"isCash":false,"date":"2026-06-15","items":[{"productName":"ACCU ACTIVE GLUCOSE","batchNo":"26004833","expiryDate":"","qty":1,"rate":603.75,"purchaseRate":575,"mrp":799,"taxCode":"12G","taxRate":12}]}]}
