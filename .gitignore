@@ -1,0 +1,8 @@
+# Ignore everything
+*
+# Except database, JSON and bills files
+!PharmaDB.mdb
+!stock_data.json
+!customer_data.json
+!pending_bills.json
+!.gitignore
