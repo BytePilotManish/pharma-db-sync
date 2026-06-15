@@ -1,1 +1,3 @@
-{"bills":[{"acNo":2516,"customerName":"A.B.PHARMA .","customerStateCode":"29","isLocal":true,"isCash":false,"date":"2026-06-15","items":[{"productName":"MOVEX-MR TAB","batchNo":"AFB9293","expiryDate":"Apr-2021","qty":10,"rate":26.27,"purchaseRate":19.9,"mrp":100,"taxCode":"12G","taxRate":12}],"noStockItems":[{"productName":"ITCH KITCH- CREAM","batchNo":"","expiryDate":"","qty":10,"rate":18.76,"purchaseRate":9.38,"mrp":23.44,"taxCode":"G5","taxRate":5},{"productName":"MOCICLOX-NX CAP","batchNo":"","expiryDate":"","qty":10,"rate":23,"purchaseRate":16,"mrp":63.75,"taxCode":"G5","taxRate":5}]}]}
+{
+    "bills": []
+}
