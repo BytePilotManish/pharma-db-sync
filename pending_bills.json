@@ -1,1 +1,3 @@
-{"bills":[{"acNo":2516,"customerName":"A.B.PHARMA .","customerStateCode":"29","isLocal":true,"isCash":false,"date":"2026-06-15","items":[{"productName":"U & I SOAP","batchNo":"DLTC0027","expiryDate":"May-2024","qty":10,"rate":42.24,"purchaseRate":32,"mrp":95,"taxCode":"18G","taxRate":18}],"noStockItems":[{"productName":"O WIN OZ I.V.100ML","batchNo":"","expiryDate":"","qty":10,"rate":40.92,"purchaseRate":31,"mrp":141.56,"taxCode":"G5","taxRate":5}]}]}
+{
+    "bills": []
+}
