@@ -1,1 +1,3 @@
-{"bills":[{"acNo":2516,"customerName":"A.B.PHARMA .","customerStateCode":"29","isLocal":true,"isCash":false,"date":"2026-06-15","items":[{"productName":"ABD  SYUP","batchNo":"LIP90203","expiryDate":"","qty":15,"rate":10.16,"purchaseRate":7.7,"mrp":16.76,"taxCode":"12G","taxRate":12}]}]}
+{
+    "bills": []
+}
