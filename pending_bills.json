@@ -1,3 +1,1 @@
-{
-    "bills": []
-}
+{"bills":[{"acNo":2516,"customerName":"A.B.PHARMA .","customerStateCode":"29","isLocal":true,"isCash":false,"date":"2026-06-15","items":[{"productName":"B.D.SYR 100U","batchNo":"6095693","expiryDate":"","qty":10,"rate":63.8,"purchaseRate":58,"mrp":75,"taxCode":"12G","taxRate":12}],"noStockItems":[]},{"acNo":2516,"customerName":"A.B.PHARMA .","customerStateCode":"29","isLocal":true,"isCash":false,"date":"2026-06-15","items":[{"productName":"TINFAL-10F SOLU","batchNo":"BTF25011","expiryDate":"","qty":10,"rate":342.2,"purchaseRate":290,"mrp":750,"taxCode":"G5","taxRate":5}],"noStockItems":[]}]}
